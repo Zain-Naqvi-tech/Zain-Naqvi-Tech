@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there, I'm Zain 👋
 
-<!--
-**Zain-Naqvi-tech/Zain-Naqvi-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at McMaster University. 
 
-Here are some ideas to get you started:
+Currently working on:
+- CAN bus network with fault detection on ARM cortex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in chip firmware, silicon bring-up, and 
+real-time embedded systems. Targeting firmware 
+internships at semiconductor and automotive companies.
+
+🔗 LinkedIn: linkedin.com/in/212z212
+📓 Portfolio: [Notion](https://curvy-sting-27f.notion.site/Zain-Naqvi-Engineering-Portfolio-36b83a80437c80e1ab30d0da07b6253e?source=copy_link)
